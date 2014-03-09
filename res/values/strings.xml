@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TekDAQC</string>
+    <!-- MENUS -->
+    <string name="menu_device_list_refresh">Refresh</string>
+    <!-- DETAIL HEADERS -->
+    <string name="detail_header_analog_input">Analog Inputs</string>
+    <string name="detail_header_voltage">Voltage</string>
+    <string name="detail_header_graph">Graph</string>
+
+</resources>
